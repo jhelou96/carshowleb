@@ -1,8 +1,8 @@
 # CarShowLeb
-[CarShowLeb](http://carshowleb.joeyhelou.com) is an online platform that allows used car dealers to create a page where they can advertize for their dealership. They have access to a complete admin panel where they can manage their page and cars.
+[CarShowLeb](http://joeyhelou.com/carshowleb) is an online platform that allows used car dealers to create a page where they can advertize for their dealership. They have access to a complete admin panel where they can manage their page and cars.
 In parallel, users can search for dealerships, cars and even create alerts to be notified when a specific car model is made available.
 
-CarShowLeb is based on a customized version of [Expressif](http://expressif.org).
+CarShowLeb is based on a customized version of [Expressif](http://joeyhelou.com/expressif).
 
 ## Key features
 
